@@ -1,4 +1,4 @@
-/* Space out content a bit */
+
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -12,7 +12,7 @@ body {
   padding-left: 1rem;
 }
 
-/* Custom page header */
+
 .header {
   padding-bottom: 1rem;
   border-bottom: .05rem solid #e5e5e5;
